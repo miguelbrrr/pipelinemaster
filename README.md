@@ -1,4 +1,9 @@
 # pipelinemaster
+
+Loom video:
+https://www.loom.com/share/648f0a57909244139f56cb571b8e6bde
+
+
 Task 1 
 In this task you are asked to use the ls command to list out all of the contents in your /etc and your /run folders.
 First, deal with the /etc folder. Use the ls command to list it's contents and redirect those contents to a file called file1.txt
